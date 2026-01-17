@@ -5,7 +5,7 @@ Continuación de la kata 2. Implementación de histogramas para un dataset con d
 - **Creación de la clase view model Histogram**. Implementar una clase llamada Histogram que actúe como view model para representar el histograma generado en memoria. La clase debe contener métodos para añadir o actualizar frecuencias, métodos para obtener los valores y frecuencias
 - **Generación del histograma en memoria**. A partir de la colección de objetos cargados y del atributo seleccionado mediante la lambda, construir una instancia de Histogram que contenga las frecuencias de los valores observados.
 ## Implementación
-Planteamos una clase Histogram e HistogramBuilder. La primera representa un histograma de tipo variable y la segunda devuelve instancias de la anterior.
+Planteamos las clases Histogram e HistogramBuilder. La primera representa un histograma de tipo variable y la segunda devuelve instancias de la anterior.
 ## Fuentes
 - Archivo de los mounstruos.
   [monsters.json](https://github.com/CrimsonNynja/monster-hunter-DB/blob/master/monsters.json)
